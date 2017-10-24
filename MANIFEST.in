@@ -1,0 +1,3 @@
+graft webdj/templates
+graft webdj/static
+include webdj/schema.sql
